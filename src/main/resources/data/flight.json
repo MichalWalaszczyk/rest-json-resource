@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 5471,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2020-05-03T08:27:35 -02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 7415,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2014-10-27T08:41:56 -01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 9863,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2020-02-15T05:08:16 -01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 9738,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2020-03-10T05:46:58 -01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 8971,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2016-11-05T04:00:10 -01:00"
+  }
+]
